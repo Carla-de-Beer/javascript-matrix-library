@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Carla-de-Beer/JavaScript.git"
+    "url": "git+https://github.com/Carla-de-Beer/Continuous-Integration.git"
   },
   "keywords": [
     "matrix"
@@ -23,7 +23,7 @@
   "author": "cadebe",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Carla-de-Beer/JavaScript/issues"
+    "url": "https://github.com/Carla-de-Beer/Continuous-Integration/issues"
   },
-  "homepage": "https://github.com/Carla-de-Beer/JavaScript#readme"
+  "homepage": "https://github.com/Carla-de-Beer/Continuous-Integration#readme"
 }
