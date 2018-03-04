@@ -1,2 +1,2 @@
 general:
-  build_dir: Continuous-Integration/MatrixLibrary
+  build_dir: MatrixLibrary/tests
