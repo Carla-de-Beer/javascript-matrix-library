@@ -1,11 +1,6 @@
 general:
   build_dir: MatrixLibrary
 
-steps:
-  - checkout
-  
-  - run: npm install
-  
-  - tun: npm run build
-  
-  - run: npm run test
+machine:
+  node:
+    version: 8.9.4
