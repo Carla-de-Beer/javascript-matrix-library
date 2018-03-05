@@ -1,4 +1,4 @@
-# Matrix Library [(https://circleci.com/gh/Carla-de-Beer/Continuous-Integration.png?&style=shield&circle-token=:circle-token)](https://circleci.com/gh/Carla-de-Beer/Continuous-Integration)
+# Matrix Library[![Build Status](https://circleci.com/gh/Carla-de-Beer/Continuous-Integration.png?&style=shield&circle-token=:circle-token)](https://circleci.com/gh/Carla-de-Beer/Continuous-Integration)
 
 A basic library that implements a few essential matrix operations.
 
