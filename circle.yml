@@ -1,7 +1,14 @@
-version: 2
-general:
-  build_dir: MatrixLibrary
+# Javascript Node CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-javascript/ for more details
 
-machine:
-  node:
-    version: 8.9.4
+version: 2
+jobs:
+  build:
+    docker:
+      # specify the version you desire here
+      - image: circleci/node:8.9.4
+
+    steps:
+      - checkout
+
